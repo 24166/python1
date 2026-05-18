@@ -1,0 +1,1 @@
+print("hello The world     time was stop")
